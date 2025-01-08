@@ -1,6 +1,7 @@
 <h1>AI-driven video Analysis and Interactive Chat</h1>
 <h2>Agent Description</h2>
 The Video Skimming and Q&A Agent is an AI-driven system designed to process video content and provide concise answers to user queries. By leveraging natural language processing (NLP) and video analysis, the agent skims through video material, identifies relevant sections, and extracts precise answers in response to text-based questions.
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9-6maFM8BSs/0.jpg)](https://www.youtube.com/watch?v=9-6maFM8BSs)
 <h2>Problem Statement</h2>
 Traditional video-based learning or information retrieval often requires users to manually search through lengthy video content, which is time-consuming and inefficient. The lack of a mechanism to directly access relevant sections of a video when seeking answers hampers user productivity and engagement.
 <h2>Solution Statement</h2>
